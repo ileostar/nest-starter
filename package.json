@@ -68,7 +68,7 @@
     "@next/eslint-plugin-next": "^13.5.5",
     "@types/cookie-parser": "^1.4.5",
     "@types/express": "^4.17.20",
-    "@types/gtag.js": "^0.0.16",
+    "@types/gtag.js": "^0.0.17",
     "@types/jest": "^28.1.8",
     "@types/node": "^18.11.18",
     "@types/passport-google-oauth20": "^2.0.12",
