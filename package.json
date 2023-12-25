@@ -84,7 +84,7 @@
     "dotenv-flow": "^4.0.1",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.1.1",
+    "eslint-plugin-prettier": "^5.1.2",
     "fishery": "^2.2.2",
     "graphql-zeus": "^5.3.2",
     "jest": "^28.1.3",
