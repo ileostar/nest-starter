@@ -1,7 +1,7 @@
 {
   "name": "nest-starter",
   "version": "0.0.1",
-  "description": "",
+  "packageManager": "pnpm@9.6.0",
   "author": "ileostar <hi@leostar.top> (https://github.com/ileostar)",
   "license": "MIT",
   "homepage": "https://github.com/ileostar/nest-starter",
