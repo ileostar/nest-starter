@@ -5,7 +5,6 @@
     ":automergeMinor",
     ":separateMajorReleases",
     ":separatePatchReleases",
-    ":semanticCommitTypeAll(📦)",
     ":semanticCommitScopeDisabled",
     ":pinVersions",
     ":rebaseStalePrs",
@@ -23,23 +22,8 @@
     {
       "depTypeList": ["devDependencies"],
       "automerge": true
-    },
-    {
-      "packagePatterns": ["^@poster-craft/"],
-      "enabled": false
-    },
-    {
-      "paths": ["apps/server/**/*"],
-      "automerge": false
-    },
-    {
-      "paths": ["apps/web/**/*"],
-      "automerge": true
     }
   ],
-  "commitMessageAction": "📦",
-  "commitMessageTopic": "{{{depName}}}",
-  "commitMessage": "📦 update {{{depName}}} to v{{{newVersion}}}",
   "npmrc": ".npmrc",
   "baseBranches": ["main"],
   "lockFileMaintenance": {
