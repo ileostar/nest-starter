@@ -3,10 +3,9 @@ const dotenv = require('dotenv');
 
 const envName = process.env.NODE_ENV === 'production' ? '.env.prod' : '.env';
 
-dotenv.configDotenv({
+dotenv.config({
   path: path.resolve(__dirname, `../../${envName}`),
 });
-
 export default {
   port: process.env.PORT || 3891
 }
