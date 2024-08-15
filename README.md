@@ -6,7 +6,7 @@
 <p align="center">A nestjs serverless startup template deployed on vercel.🧸</p>
 
 <p align='center'>
-<a href="https://nest-start.leostar.top/">👀Live Demo</a>
+<a href="https://nest-starter.leostar.top/">👀Live Demo</a>
 </p>
 
 <p align='center'>
