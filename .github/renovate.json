@@ -13,9 +13,10 @@
     ":updateNotScheduled",
     ":automergeRequireAllStatusChecks",
     ":maintainLockFilesDisabled",
-    "group:monorepos",
-    "group:recommended"
+    "config:recommended",
+    ":dependencyDashboard"
   ],
+  "dependencyDashboard": true,
   "prHourlyLimit": 1,
   "prConcurrentLimit": 1,
   "packageRules": [

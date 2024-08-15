@@ -33,6 +33,7 @@
 - [ ] 更改许可证中的作者姓名
 - [ ] 更改package.json中的信息
 - [ ] 更改docker-compose.yml中的配置
+- [ ] 把 `.env.example`/`.env.prod.example` 改为 `.env`/`.env.prod`
 - [ ] 移除。包含资金信息的github文件夹
 - [ ] 清理READMEs
 

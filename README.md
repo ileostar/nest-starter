@@ -32,6 +32,7 @@ When you use this template, try follow the checklist to update your info properl
 - [ ] Change the author name in LICENSE
 - [ ] Change the infos in package.json
 - [ ] Change the config in docker-compose.yml
+- [ ] Change `.env.example`/`.env.prod.example` to `.env`/`.env.prod`
 - [ ] Remove the .github folder which contains the funding info
 - [ ] Clean up the READMEs
 
