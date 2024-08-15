@@ -43,7 +43,7 @@ nd, enjoy :)
 ### Installation
 
 ```bash
-pnpm install
+$ pnpm install
 ```
 
 ### Running the app
@@ -87,3 +87,11 @@ And you will see the generated file in dist that ready to be served.
 ```bash
 $ docker-compose up --build
 ```
+
+## Support
+
+🎉 Thank you so much for checking out our project! If you found this project helpful or you think it's cool, you can send us a sign of support at 🌟star🌟. This will help our project to get more attention and development, but also a kind of encouragement and affirmation of our efforts.
+
+🚀 Of course, if you have any suggestions, feedback or contributions that would like to participate in the project, we are very welcome! You can interact with us by submitting an Issue or Pull Request.
+
+💖 Thank you for your support!
