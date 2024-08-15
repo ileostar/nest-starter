@@ -13,7 +13,7 @@
 <b>English</b> | <a href="https://github.com/ileostar/nest-starter/blob/main/README.zh-CN.md">简体中文</a>
 </p>
 
-## Try it now!
+## ✨Try it now!
 
 ### GitHub Template
 
@@ -25,7 +25,7 @@ One-click deployment to Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/ileostar/nest-starter)
 
-## Checklist
+## 🧾Checklist
 
 When you use this template, try follow the checklist to update your info properly
 
@@ -38,7 +38,7 @@ When you use this template, try follow the checklist to update your info properl
 
 nd, enjoy :)
 
-## Usage
+## 🍚Usage
 
 ### Installation
 
@@ -70,4 +70,20 @@ $ pnpm run test:e2e
 
 # test coverage
 $ pnpm run test:cov
+```
+
+### Build
+
+To build the Server, run
+
+```bash
+$ pnpm build
+```
+
+And you will see the generated file in dist that ready to be served.
+
+### Docker Production Build & Start
+
+```bash
+$ docker-compose up --build
 ```

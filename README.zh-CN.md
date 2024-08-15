@@ -14,7 +14,7 @@
 </p>
 
 
-## 启动
+## ✨启动
 
 ### GitHub 模版
 
@@ -26,7 +26,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/ileostar/nest-starter)
 
-## 清单
+## 🧾清单
 
 当您使用此模板时，请尝试按照清单正确更新您的信息
 
@@ -39,7 +39,7 @@
 
 nd, enjoy :)
 
-## 使用
+## 🍚食用
 
 ### 安装
 
@@ -71,4 +71,20 @@ $ pnpm run test:e2e
 
 # test coverage
 $ pnpm run test:cov
+```
+
+### 构建
+
+要构建服务，请运行
+
+```bash
+$ pnpm build
+```
+
+您将看到dist中准备提供的生成文件。
+
+### Docker构建运行
+
+```bash
+$ docker-compose up --build
 ```
