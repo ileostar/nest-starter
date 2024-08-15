@@ -6,7 +6,7 @@
 <p align="center">部署在 vercel 上的 Nestjs Serverless 启动模板🧸</p>
 
 <p align='center'>
-<a href="https://nest-start.leostar.top/">👀预览示例</a>
+<a href="https://nest-starter.leostar.top/">👀预览示例</a>
 </p>
 
 <p align='center'>
